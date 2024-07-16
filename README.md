@@ -16,13 +16,13 @@ Sales Method: Outlet, In-store, Online
 3 of the 6 retailers, West Gear, Foot Locker, and Sports Direct, make up large majority of all sales, nearly 70%.
 
 ### Product
-Mens athletic footwear has the highes total sales of all products. However it also has the lowest profit margin of all products at around 0.40.
+Mens athletic footwear has the highes total sales of all products. However it also has the lowest profit margin of all products at around 40%.
 
 ### Region
 From January to Septmeber, the West region consitanlty has the most total sales. The notheast then becomes the major sales region from October onward. It is unclear why this may be happening.
 
 ### Sales Method
-ales method seems to be relatiely consistent throughouth the year.
+Sales methods seems to stay relatiely consistent throughouth the year.
 
 ### Monthly Sales
 Sales began a sharp increase starting in October into December. Most likely because of the holiday season.
