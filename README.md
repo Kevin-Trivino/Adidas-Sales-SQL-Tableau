@@ -4,7 +4,7 @@ This project explores national sales of adidas clothing from the year 2021 and a
 ![Screenshot 2024-07-16 at 12 47 48](https://github.com/user-attachments/assets/821f27b1-a805-45a6-8b6e-e270f9f9bc37)
 
 ## Metrics and Dimensions
-Total Sales
+Total Sales: Total sales in dollars
 Region: West, MidWest, Northeast, Southeast, South
 Retailers: Foot Locker, Sports Direct, West Gear, Kohls, Amazon, Walmart
 Product: Mens Street Footwear, Womens, Apparel, Mens Atheltic Footwear, Womens Street footwear, Mens Apparel, Womens Athletic Footwear
