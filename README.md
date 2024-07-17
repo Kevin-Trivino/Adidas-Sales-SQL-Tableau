@@ -23,7 +23,7 @@ Sales Method: Outlet, In-store, Online
 Mens athletic footwear has the highes total sales of all products. However it also has the lowest profit margin of all products at around 40%.
 
 ### Region
-From January to Septmeber, the West region consistantly has the most total sales. The notheast then becomes the major sales region from October onward. It is unclear why this may be happening.
+From January to Septmeber, the West region consistantly has the most total sales. The Northeast then becomes the major sales region from October onward. It is unclear why this may be happening.
 
 ### Sales Method
 Sales methods seems to stay relatively consistent throughouth the year.
