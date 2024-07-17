@@ -6,7 +6,7 @@ This project explores national sales of adidas clothing from the year 2021 and a
 ## Metrics and Dimensions
 Total Sales: Total sales in dollars
 
-Region: West, MidWest, Northeast, Southeast, South
+Region: West, Midwest, Northeast, Southeast, South
 
 Retailers: Foot Locker, Sports Direct, West Gear, Kohls, Amazon, Walmart
 
