@@ -1,5 +1,5 @@
 # Adidas-Sales-SQL-Tableau
-This project explores national sales of adidas clothing from the year 2021 and aims to find insights and trends thrugh different dimensions such as region, product, retailer and sales method to support business decisions for increasing porifts and inventory management. This dataset also contains other metrics such as operating profit, operating margin and units sold but for the purpose of the dashboard, the focus will be on sales. Some of the other metrics are explored in sql to look for any interesting insights but are not included in the dashboard.
+This project explores national sales of adidas clothing from the year 2021 and aims to find insights and trends thrugh different dimensions such as region, product, retailer and sales method to support business decisions for increasing porifts and inventory management. This dataset also contains other metrics such as operating profit, operating margin and units sold but for the purpose of the dashboard, the focus will be on sales. Some of the other metrics are explored in sql script provided to look for any interesting insights but are not included in the dashboard.
 
 ![Screenshot 2024-07-16 at 21 57 37](https://github.com/user-attachments/assets/8528ab27-ee88-45d9-9039-26c0b957e68d)
 
