@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/kevin.trivino/viz/AdidasSales_17210720434760/Dashboard1
+
 # Adidas-Sales-SQL-Tableau
 This project explores national sales of adidas apparel in 2021 and aims to find insights and trends through different dimensions such as region, product, retailer, and sales method to support business decisions for increasing profits and inventory management. This dataset also contains other metrics such as operating profit, operating margin, and units sold, but for the purpose of the dashboard, the focus will be on sales. Some of the other metrics are explored in the SQL script provided to look for any interesting insights but are not included in the dashboard.
 
