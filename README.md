@@ -18,7 +18,7 @@ Sales Method: Outlet, In-Store, Online
 ## Summary of Insights
 
 ### Retailers
-3 of the 6 retailers, West Gear, Foot Locker, and Sports Direct, make up large majority of all sales, nearly 70%.
+3 of the 6 retailers, West Gear, Foot Locker, and Sports Direct, make up the large majority of all sales, nearly 70%.
 
 ### Product
 Mens athletic footwear has the highest total sales of all products. However, it also has the lowest profit margin of all products, at around 40%.
