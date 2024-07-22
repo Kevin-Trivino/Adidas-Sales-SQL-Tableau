@@ -30,8 +30,9 @@ From January to September, the West region consistently had the most total sales
 ### Sales Method
 Sales methods seem to stay relatively consistent throughout the year.
 
-### Monthly Sales
-Sales began a sharp increase starting in October and continuing into December. Most likely because of the holiday season.
+### YoY Sales
+Year over year sales seem to follow similar trends. Sales began a sharp increase starting in October and continuing into December. Most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until Novemebr compared to 2022 and 2023, it had the highest sales the month of December. This could be investigated furthur to determine if this was caused by internal factors such as positive marketing or promotional factors during that holiday season that can be replicated or if this simply the result of external factors outside of the company.
+
 
 ## Reccomendations and Next Steps
 - Mens street footwear is consistently the product with the highest sales throughout the year. However, it also has the lowest profit margin of all products. Perhaps efforts can be focused on increasing the profit margin of this product, as it would have a high yield effect on overall profit.
