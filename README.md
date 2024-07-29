@@ -41,5 +41,5 @@ Sales methods seem to stay relatively consistent throughout the year.
 - West Gear, Foot Locker, and Sport Direct account for 70% of total sales in 2023. Investigate what makes these retailers so successful and possibly focus inventory on these retailers.
 
 - Men's street footwear is consistently the product with the highest sales each year. However, it also has the lowest profit margin of all products. Perhaps efforts can be focused on increasing the profit margin of this product, as it would have a high yield effect on overall profit.
-- Adiditionally, investigate why men's footwear was the only product to drop in sales from 2022 to 2023. Is this drop foreshadowing a change in consumer purchase trends, or was it because of an internal issue such as poor product offerings, marketing issues, etc.? 
+- Additionally, investigate why men's footwear was the only product to drop in sales from 2022 to 2023. Is this drop foreshadowing a change in consumer purchase trends, or was it because of an internal issue such as poor product offerings, marketing issues, etc.? 
 
