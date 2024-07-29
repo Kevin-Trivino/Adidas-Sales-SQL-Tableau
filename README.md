@@ -36,7 +36,7 @@ Sales methods seem to stay relatively consistent throughout the year.
 Sales for all three years seemed to follow similar trends. Sales began a sharp increase starting in October and continuing into December. Most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until Novemebr compared to 2022 and 2023, it had the highest sales the month of December. 
 
 
-## Reccomendations and Next Steps
+## Recommendations and Next Steps
 - Mens street footwear is consistently the product with the highest sales throughout the year. However, it also has the lowest profit margin of all products. Perhaps efforts can be focused on increasing the profit margin of this product, as it would have a high yield effect on overall profit.
 - West Gear, Foot Locker, and Sport Direct account for 70% of total sales. Investigate what makes these retailers so successful and possibly focus inventory on these retailers.
 - Investigate further the change in regional sales throughout the year. Why is there such a noticeable change in regions with the highest sales throughout the year, specifically the Northeast, which has relatively low sales throughout the year compared to other regions, until October, when it becomes the region with the largest amount of sales? How can we increase sales in the first three quarters of the year for this region?
