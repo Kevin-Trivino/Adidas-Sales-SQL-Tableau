@@ -33,7 +33,7 @@ From January to September, the West region consistently had the most total sales
 Sales methods seem to stay relatively consistent throughout the year.
 
 ### Current Year vs Previous Year Sales
-Sales for all three years seemed to follow similar trends. Sales began a sharp increase starting in October and continuing into December. Most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until Novemebr compared to 2022 and 2023, it had the highest sales the month of December. 
+Sales for all three years seemed to follow similar trends. Sales began a sharp increase starting in October continuing into December. Most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until Novemebr compared to 2022 and 2023, it had the highest sales the month of December. 
 
 
 ## Recommendations and Next Steps
