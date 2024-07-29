@@ -1,9 +1,8 @@
 # Adidas Sales Analysis (2021-2023)
-This project explores national sales of adidas apparel from 2021-2023 and aims to find insights and trends through different dimensions such as region, product, retailer, and sales method to support business decisions for increasing profits and inventory management. This dataset also contains other metrics such as operating profit, operating margin, and units sold, but for the purpose of the dashboard, the focus will be on sales. Some of the other metrics are explored in the SQL script provided to look for any interesting insights but are not included in the dashboard.
+This project explores national sales of adidas apparel from 2021-2023 and aims to find insights and trends through different dimensions such as region, product, retailer, and sales method to support business decisions for increasing sales and inventory management. This dataset also contains other metrics such as operating profit, operating margin, and units sold, but for the purpose of the dashboard, the focus will be on sales. Some of the other metrics are explored in the SQL script provided to look for any interesting insights but are not included in the dashboard.
 
 Interactive dashboard Tableau Public: https://public.tableau.com/app/profile/kevin.trivino/viz/AdidasSales_17210720434760/Dashboard1
-![Screenshot 2024-07-29 at 00 31 24](https://github.com/user-attachments/assets/1750150d-17c8-47b2-a90e-d00fb905c5a3)
-
+![Screenshot 2024-07-29 at 10 55 22](https://github.com/user-attachments/assets/251a6042-a57b-4a94-be30-0edf6cc17aa4)
 
 ## Metrics and Dimensions
 Total Sales: Total sales in dollars
@@ -30,8 +29,8 @@ From January to September, the West region consistently had the most total sales
 ### Sales Method
 Sales methods seem to stay relatively consistent throughout the year.
 
-### YoY Sales
-Year over year sales seem to follow similar trends. Sales began a sharp increase starting in October and continuing into December. Most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until Novemebr compared to 2022 and 2023, it had the highest sales the month of December. 
+### Current Year vs Previous Year Sales
+Sales for all three years seemed to follow similar trends. Sales began a sharp increase starting in October and continuing into December. Most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until Novemebr compared to 2022 and 2023, it had the highest sales the month of December. 
 
 
 ## Reccomendations and Next Steps
