@@ -31,7 +31,7 @@ Sales methods seem to stay relatively consistent throughout the year.
 
 ## Year vs Year Insights
 - Sales increased each year from 2021 to 2023.
-- Sales for all three years seemed to follow similar trends, there was a sharp increase starting in October and continuing into December, most likely because of the holiday season. It is important to note that although 2021 had the lowest sales until November compared to 2022 and 2023, it had the highest sales in the month of December.
+- Sales for all three years seemed to follow similar trends, there was a sharp increase starting in October and continuing into December, most likely because of the holiday season.
 - Sales for each retailer increased from 2021 to 2022. However, it decreased for every retailer from 2022 to 2023, except for Foot Locker.
 - Men's street footwear declined from 2022 to 2023, with an increase in sales for all other products.
 
