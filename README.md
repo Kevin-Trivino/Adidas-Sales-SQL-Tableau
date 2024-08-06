@@ -29,7 +29,7 @@ Mens athletic footwear has the highest total sales of all products. However, it 
 ### Sales Method
 Sales methods seem to stay relatively consistent throughout the year.
 
-## Year vs Year Insights
+## Year over Year Insights
 - Sales increased each year from 2021 to 2023.
 - Sales for all three years seemed to follow similar trends, there was a sharp increase starting in October and continuing into December, most likely because of the holiday season.
 - Sales for each retailer increased from 2021 to 2022. However, it decreased for every retailer from 2022 to 2023, except for Foot Locker.
